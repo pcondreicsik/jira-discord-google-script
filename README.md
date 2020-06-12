@@ -33,7 +33,7 @@ We will need this one later. Don't worry, you can open the Webhook anytime to co
 
 You will need to have a google account for this.
 
-![Create new Project](/imag/newproject.png)
+![Create new Project](/img/newproject.png)
 
 2. Add following code
 
